@@ -1,4 +1,4 @@
-from Row import Row
+from Classes.row import Row
 
 class Table():
 
